@@ -1,0 +1,31 @@
+v3/lints/mtc/lint_mtc_proof.go
+  s_d595c2ddfc590a::t_844ef992c4de99 1-69
+v3/testdata/mtc_plants07_valid.pem
+  s_01e23fc6e6d7ce::t_578371c80fbe4e 1-134
+v3/zlint.go
+  s_d595c2ddfc590a::t_16f748cfc4948e 33
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "663584bc0c13bafc0a88882922ff4791ca55989b",
+  "prompts": {},
+  "sessions": {
+    "s_01e23fc6e6d7ce": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_eb9a9baacffeGJMrK2NILsePNt",
+        "model": "cloudflare/auto"
+      },
+      "human_author": "Luke Valenta <lvalenta@cloudflare.com>"
+    },
+    "s_d595c2ddfc590a": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_fcb038ab7ffe7AYGueE7QpbALZ",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Luke Valenta <lvalenta@cloudflare.com>"
+    }
+  }
+}
